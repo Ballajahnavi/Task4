@@ -4,12 +4,12 @@
 This project demonstrates a simple Logistic Regression model to classify tumors as **malignant** or **benign** using the Breast Cancer Wisconsin dataset.  
 It includes data preprocessing, model training, evaluation, threshold tuning, and sigmoid function visualization.
 
-## 📁 Project Structure
+## Project Structure
 
 - `data.csv` → Dataset containing tumor features and diagnosis labels  
 - `breast_cancer_classification.py` → Python code for building and evaluating the model  
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Python  
 - Pandas  
